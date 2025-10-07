@@ -5,7 +5,7 @@ public class Main {
         dosen[] daftarDosen = new dosen[2];
 
         daftarMhs[0] = new mhsw("M001", "Indah", "indah@student.unram.ac.id", "F1D02310004", "Teknik Informatika");
-        daftarMhs[1] = new mhsw("M002", "Karin", "karin@student.unram.ac.id", "F1D02310001", "Arsitektur");
+        daftarMhs[1] = new mhsw("M002", "Karin", "karin@student.unram.ac.id", "F1D02310066", "Arsitektur");
         daftarMhs[2] = new mhsw("M003", "Anca", "anca@student.unram.ac.id", "F1D02310015", "Ilmu Komunikasi");
 
         daftarDosen[0] = new dosen("D001", "Bu Nana", "nana@unram.ac.id", "197802032002", "Pemrograman Berorientasi Objek");
@@ -35,3 +35,4 @@ public class Main {
         sistem.logout();
     }
 }
+
