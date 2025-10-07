@@ -29,6 +29,7 @@ public class Main {
 
         System.out.println();
 
+        //menampilkan jumlah mahasiswa dan dosen
         System.out.println("Jumlah Mahasiswa: " + daftarMhs.length);
         System.out.println("Jumlah Dosen: " + daftarDosen.length);
 
